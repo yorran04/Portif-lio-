@@ -1,2 +1,46 @@
+.skills_container {
+    margin: 4rem 0;
+    position: relative;
+
+}
+
+.skills_container h5{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 3.5rem;
+    text-align: center;
+}
+
+.skills_content{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    
+}
 
 
+.skills{
+    flex: 1;
+    display: flex;
+    gap: 1rem;
+}
+
+.skilss-info{
+    flex: 1;
+}
+
+@media (max-width:680px) {
+    .skills_content{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .skilss-info{
+        width: 100%;
+    }
+
+    .skills{
+        width: 100%;
+        
+    }
+}
