@@ -28,13 +28,13 @@ const toggleMenu = () =>{
                    <a href='https://docs.github.com/pt/rest/guides/using-the-rest-api-to-interact-with-checks?apiVersion=2022-11-28' className='nav-items'>Home</a>
                 </li>
                 <li>
-                   <a href='#top' className='nav-items'>Skills</a>
+                   <a href='#top' className='nav-items'>Habilidades</a>
                 </li>
                 <li>
-                   <a href='#top' className='nav-items'>work</a>
+                   <a href='#top' className='nav-items'>Experiência</a>
                 </li>
                 <li>
-                   <a href='#top' className='nav-items'>Contact Me</a>
+                   <a href='#top' className='nav-items'>Contato</a>
                 </li>
 
                 <button className='contact-btn'>Hire Me</button>

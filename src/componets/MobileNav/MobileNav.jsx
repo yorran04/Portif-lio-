@@ -1,7 +1,6 @@
 import React from 'react';
 
 import "./MobileNav.css"
-import logo from '../../img/logo-mobile.png'
 
 
 export function MobileNav({isOpen, toggleMenu}) {
@@ -11,7 +10,6 @@ export function MobileNav({isOpen, toggleMenu}) {
    onClick={toggleMenu}>
 
     <div className='mobile-menu-container'>
-        <img src={logo} alt='logo'></img>
         <ul>
 
             <li>
@@ -19,15 +17,15 @@ export function MobileNav({isOpen, toggleMenu}) {
             </li>
 
             <li>
-                   <a href='#top' className='nav-items'>Skills</a>
+                   <a href='#top' className='nav-items'>Habilidades</a>
             </li>
 
              <li>
-                   <a href='#top' className='nav-items'>work</a>
-             </li>
+                   <a href='#top' className='nav-items'>Experiências</a>
+             </li>  
 
              <li>
-                   <a href='#top' className='nav-items'>Contact Me</a>
+                   <a href='#top' className='nav-items'>Contato</a>
              </li>
 
              <button className='contact-btn'>Here me</button>

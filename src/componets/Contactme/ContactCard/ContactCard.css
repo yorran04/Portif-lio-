@@ -1,0 +1,16 @@
+.contact-details-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1.5px solid #6751b9;
+    border-radius: 0.5rem;
+    background: #130f2a;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+
+.email-img{
+    width: 32px;    
+}

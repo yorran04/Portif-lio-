@@ -4,11 +4,10 @@ import './Main.css'
 
 
 import logo from "../../img/logo_react.png";
-import PhotoProfile from "../../img/profile.png";
+import PhotoProfile from "../../img/profile03.jpeg";
 import logoHtml from "../../img/img01.png"
 import logoCSS from "../../img/img02.png"
 import logoJs from "../../img/img03.png"
-
 
 
 
@@ -18,10 +17,9 @@ export function Main() {
     <>
     <section className='main-container'>
         <div className='main-content'>
-            <h2>Buildin your portfolio</h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptates impedit iure cupiditate blanditiis quia, ex adipisci sit quis aliquid itaque cumque quod provident iusto quam? Neque doloribus quae fuga!
-            </p>
+            <h2>Yorran Alves</h2>
+            <p style={{fontSize: '1.2rem', marginBottom: '15px'}}>________Front-end Developer</p>
+            <p> Apaixonado por criar interfaces intuitivas e responsivas, com experiência em HTML, CSS, JavaScript e frameworks modernos. Transformo ideias em experiências digitais envolventes e funcionais."</p>
         </div>
         <div className='main-img'>
             <div>

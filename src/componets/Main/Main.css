@@ -76,7 +76,7 @@
     justify-content: center;
     text-align: center;
     border-radius: 0.65rem;
-    border: 1.5px solid #6852ba;
+    border: 1.5px solid #6751b9;
 }
 
 .main-img > div > img:hover,
@@ -86,9 +86,11 @@
 
 
 .png img{
-    width: 11rem;
-    border-radius: 100%;
-    border: 1.5px solid #6852ba;
+    width: 15rem;
+    border-radius: 10%;
+    border: 2px solid #6751b9;
+    opacity: 50%;
+    
 }
 
 @media(max-width: 1025px){
