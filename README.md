@@ -15,7 +15,5 @@
 - fetch api
 
 ## Resultado:
-![Captura de tela 2024-07-19 164703](https://github.com/user-attachments/assets/8a780000-6481-420b-b060-d4ef6cf18fa2)
-![Captura de tela 2024-07-19 164749](https://github.com/user-attachments/assets/ccd68701-b397-482f-9b3d-b8465404dfba)
-![Captura de tela 2024-07-19 164814](https://github.com/user-attachments/assets/27d34281-faf0-4b77-b553-9745a2e8488d)
-![Captura de tela 2024-07-19 164837](https://github.com/user-attachments/assets/e59eb3d6-679e-4efd-9dba-6e7427dd8dc5)
+https://github.com/user-attachments/assets/d78e0304-e211-4a9d-883a-9137281163c0
+
